@@ -13,7 +13,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: samplecluster.npslotd.mongodb.net
       MONGODB_USERNAME: sashidharai3333_db_user
       MONGODB_PASSWORD: FjrUDPXBIHpaaNcV
-      PORT: XYZ
+      PORT: 3000
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
